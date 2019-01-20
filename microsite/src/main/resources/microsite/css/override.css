@@ -1,5 +1,5 @@
 .jumbotron {
-    background: #000000 url("../img/jumbotron_pattern.png") no-repeat fixed center top;
+    background: #000000 url("../img/jumbotron_pattern.png") no-repeat absolute center top;
     padding-top: 166px;
     padding-bottom: 0;
 }
