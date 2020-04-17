@@ -7,8 +7,10 @@ title:  "Resources"
 
 _These articles reflect the state of ZIO at the time of their publication. The code samples might be outdated, considering ZIO was early in development at the time they were written. However, the concepts are still relevant._
 
+- [uzhttp + sttp for light-weight http and websockets](https://timpigden.github.io/_pages/zio-uzhttp-sttp/uzhttp-sttp.html) by Tim Pigden (April 2020)
 - [Effective testing with ZIO Test (RC18)](https://scala.monster/zio-test/) by Pavels Sisojevs (April 2020)
 - [ZIO with http4s, Auth, Codecs and zio-tests (RC18)](https://timpigden.github.io/_pages/zio-http4s/intro.html) by Tim Pigden (April 2020)
+- [How to write a concurrent LRU cache with ZIO STM](https://scalac.io/how-to-write-a-completely-lock-free-concurrent-lru-cache-with-zio-stm/) by Jorge Vasquez (March 2020)
 - [Testing background process with ZIO](https://www.rudder.io/blog/testing-background-process-zio/) by François Armand (March 2020)
 - [Example of ZLayers being used in combination](https://timpigden.github.io/_pages/zlayer/Examples.html) by Tim Pigden (March 2020)
 - [From idea to product with ZLayer](https://scala.monster/welcome-zio/) by Pavels Sisojevs (March 2020)
